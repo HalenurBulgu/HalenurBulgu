@@ -14,11 +14,11 @@
  My Contacts:
 
 
- [Linkedin](https://www.linkedin.com/in/halenurbulgu/)
+- [Linkedin](https://www.linkedin.com/in/halenurbulgu/)
  
- [Medium](https://medium.com/@halenurbulgu)
+- [Medium](https://medium.com/@halenurbulgu)
  
- [Kaggle](https://www.kaggle.com/halenurbulgu)
+- [Kaggle](https://www.kaggle.com/halenurbulgu)
 
 <!--
 **HalenurBulgu/HalenurBulgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
