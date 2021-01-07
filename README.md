@@ -12,8 +12,8 @@
 
 My Contacts:
 
-[Linkedin] (https://www.linkedin.com/in/halenurbulgu/)
-[Medium] (https://medium.com/@halenurbulgu)
-[Kaggle] (https://www.kaggle.com/halenurbulgu)
+[Linkedin](https://www.linkedin.com/in/halenurbulgu/)
+[Medium](https://medium.com/@halenurbulgu)
+[Kaggle](https://www.kaggle.com/halenurbulgu)
 
 -->
