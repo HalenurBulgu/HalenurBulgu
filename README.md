@@ -4,7 +4,7 @@
  
  ⚡ Mathematician
  
- 🧠 Data Science Candidate
+ 🧠 Data Scientist Candidate
  
  🌱 Machine Learning & Artificial Intelligence(AI) Learner
  
