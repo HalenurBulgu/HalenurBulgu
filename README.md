@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- 💻 I am a participant of **Data Science and Machine Learning Bootcamp** at [Veri Bilimi Okulu](https://www.linkedin.com/in/veribilimiokulu/)
+ 💻 I am participant and teaching assistant of **Data Science and Machine Learning Bootcamp** at [Veri Bilimi Okulu](https://www.linkedin.com/in/veribilimiokulu/)
  
  ⚡ Mathematician
  
