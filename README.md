@@ -20,7 +20,7 @@
  
 - [Kaggle](https://www.kaggle.com/halenurbulgu)
 
-![halenurbulgu's GitHub stats](https://github-readme-stats.vercel.app/api?username=halenurbulgu&show_icons=true&theme=gruvbox)
+![halenurbulgu's GitHub stats](https://github-readme-stats.vercel.app/api?username=halenurbulgu&show_icons=true&theme=radical)
 
 
 <!--
