@@ -1,14 +1,14 @@
 ### Hi there 👋
 
- 💻 I am participant and teaching assistant at **Data Science and Machine Learning Bootcamp** [Veri Bilimi Okulu](https://www.linkedin.com/in/veribilimiokulu/)
+ 🔎 I am participant and teaching assistant at **Data Science and Machine Learning Bootcamp** [Veri Bilimi Okulu](https://www.linkedin.com/in/veribilimiokulu/)
  
- ⚡ Mathematician
+ 📈 Mathematician
  
- 🧠 Data Scientist
+ 👩🏻‍💻 Data Scientist
  
- 🌱 Machine Learning & Artificial Intelligence(AI) Learner
+ 📚 Machine Learning & Artificial Intelligence(AI) Researcher
  
- 🔭 Currently working on Python
+ 💻 Currently working on Python
 
 
  My Contacts:
