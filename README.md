@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there👋
 
- 🔎 I am a Software Engineer 
+ 🔎 I am a Software Engineer 🤟
  
  📈 Mathematician
  
@@ -8,7 +8,7 @@
  
  📚 Machine Learning & Artificial Intelligence(AI) Researcher
  
- 💻 Big Data Researcher
+ 💻 Big Data Researcher 🤘
  
 
  My Profiles:
