@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- 🔎 I am a Software Engineer (https://www.linkedin.com/halenurbulgu)
+ 🔎 I am a Software Engineer 
  
  📈 Mathematician
  
