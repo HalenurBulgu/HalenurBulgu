@@ -8,7 +8,7 @@
  
  📚 Machine Learning & Artificial Intelligence(AI) Researcher
  
- 🔎Big Data Researcher 🤟
+ 🔎 Big Data Researcher 🤟
  
 
  My Profiles:
