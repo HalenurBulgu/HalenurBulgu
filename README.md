@@ -1,24 +1,25 @@
 ### Hi there👋
 
- 💻 I am a Software Engineer 🤟
+ 💻 I am a BI Developer 🤟
+ &
+ 👩🏻‍💻 Data Architect 🤟
  
  📈 Mathematician
  
- 👩🏻‍💻 Data Scientist
- 
  📚 Machine Learning & Artificial Intelligence(AI) Researcher
  
- 🔎 Big Data Researcher 🤟
+ 🔎 Big Data Researcher 
  
 
  My Profiles:
-
+ 
+- [WebSite](https://lastdatabender.com)
 
 - [Linkedin](https://www.linkedin.com/in/halenurbulgu/)
  
 - [Kaggle](https://www.kaggle.com/halenurbulgu)
 
-- [WebSite](https://lastdatabender.com)
+
 
 
 <!--
