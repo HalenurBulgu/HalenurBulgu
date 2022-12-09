@@ -1,6 +1,6 @@
 ### Hi there👋
 
- 💻 I am a BI Developer 🤟
+ 💻 I am a BI Developer 
  &
  👩🏻‍💻 Data Architect 🤟
  
