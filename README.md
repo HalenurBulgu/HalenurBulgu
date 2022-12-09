@@ -2,7 +2,7 @@
 
  💻 I am a BI Developer 
  &
- Data Architect 🤟
+ Data Architect 
  
  📈 Mathematician
  
